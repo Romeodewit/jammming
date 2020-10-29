@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app allows you to link your spotify account and create playlists on an easier format. These playlists can then be saved to your spotify account!
+
 ## Available Scripts
 
 In the project directory, you can run:
